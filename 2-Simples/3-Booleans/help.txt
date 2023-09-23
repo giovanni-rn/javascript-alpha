@@ -1,0 +1,2 @@
+Fonction qui vérifie si l'argument est un string
+- La fonction renvoie directement le booléen donné par le mot-clé qui vérifie le type d'une variable

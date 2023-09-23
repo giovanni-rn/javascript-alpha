@@ -1,0 +1,8 @@
+1 Créer une variable modifiable avec la syntaxe ES6
+- La structure est la même qu'avec "var", tu as juste à changer de mot-clé
+
+2 Créer une fonction ES6 qui prend une variable en paramètre pour remplacer sa valeur par "poulet" et renvoyer cette nouvelle valeur
+- Utilise la même variable en paramètre et après le "return"
+
+3 Affcher la valeur renvoyée par la fonction du dessus avec une fonction flechée
+- Tu dois passer la fonction directement dans le "console.log"

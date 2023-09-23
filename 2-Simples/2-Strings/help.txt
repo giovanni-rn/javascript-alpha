@@ -1,0 +1,5 @@
+Renvoie un mot avec une majuscule sur la première lettre
+- Sers-toi de 3 des fonctions que l'on vient de voir : sélectionne une lettre, mets-la en maj, coupe le mot initial, enfin concatène
+
+Concaténer deux chaînes de caractères avec une majuscule sur le 1er mot
+- Ne réécris pas le code déjà écrit dans la fonction précédante !

@@ -1,0 +1,7 @@
+1 Fonction qui calcule et renvoie x puissance y
+- Tu peux tout écrire en une seule ligne, sers-toi d'un des opérateurs que l'on a vu
+
+
+
+2 Fonction qui soustrait deux nombres saisis par l'utilisateur
+- Même chose que pour l'exercice précédant sauf que les nombres saisis dans "prompt" ne sont pas de type "number" !

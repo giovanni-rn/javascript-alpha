@@ -1,0 +1,7 @@
+1 Définir une variable appelée fruit qui contient le mot "fraise"
+- Souviens-toi de la structure lorsque l'on déclare une variable : var nomDeVariable = valeurAssociée
+
+
+2 Afficher la phrase "J'aime le poulet" grâce à une fonction
+- Sers-toi de la même méthode dont je me suis servi pour afficher du texte dans la console
+- Et n'oublie pas d'appeler la fonction !

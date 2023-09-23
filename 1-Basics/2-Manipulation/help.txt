@@ -1,0 +1,6 @@
+1 Echanger la valeur de 2 variables
+- Tu as besoin de stocker la valeur de la première variable quelque part avant de la remplacer
+
+
+2 Afficher le contenu de la variable fruit dans la console
+- Réutilise la variable créée dans l'exercice 1

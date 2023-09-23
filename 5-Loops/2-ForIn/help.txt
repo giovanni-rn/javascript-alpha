@@ -1,0 +1,6 @@
+Fonction qui renvoie la liste des entiers de 0 à 99 (inclus)
+- Commence par créer une liste vide
+- Puis utilise une boucle for pour ajouter la valeur de l'index "i" à chaque tour
+
+Fonction qui affiche les nombres multiples de x
+- Utilise le modulo (%) pour vérifier sur le nombre est un multiple de 10
